@@ -1275,7 +1275,7 @@ section.lazy-placeholder:after {
 }
 .cid-uieh6ms8iX {
   padding-top: 45px;
-  padding-bottom: 0px;
+  padding-bottom: 60px;
   background-color: #ffffff;
 }
 .cid-uieh6ms8iX .mbr-fallback-image.disabled {
@@ -1306,9 +1306,9 @@ section.lazy-placeholder:after {
   min-height: 1px;
 }
 .cid-uoPvIgys1Q {
-  padding-top: 4rem;
-  padding-bottom: 0rem;
-  background-color: #ffffff;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
+  background-image: url("../../../assets/images/rise-and-fall-1080x1080.jpeg");
 }
 .cid-uoPvIgys1Q .mbr-fallback-image.disabled {
   display: none;
@@ -1351,7 +1351,7 @@ section.lazy-placeholder:after {
 }
 .cid-u34P7Jo2SO {
   padding-top: 4rem;
-  padding-bottom: 0rem;
+  padding-bottom: 4rem;
   background-color: #ffffff;
 }
 .cid-u34P7Jo2SO h6 {
@@ -1404,8 +1404,8 @@ section.lazy-placeholder:after {
   }
 }
 .cid-uifI4NyxLb {
-  padding-top: 4rem;
-  padding-bottom: 6rem;
+  padding-top: 5rem;
+  padding-bottom: 5rem;
   background-color: #ffffff;
 }
 .cid-uifI4NyxLb .mbr-fallback-image.disabled {
@@ -1471,26 +1471,6 @@ section.lazy-placeholder:after {
 }
 .cid-uoykLmRt79 H3 {
   text-align: left;
-}
-.cid-uoymVJCKqb {
-  padding-top: 0rem;
-  padding-bottom: 4rem;
-  background-color: #ffffff;
-}
-.cid-uoymVJCKqb .mbr-fallback-image.disabled {
-  display: none;
-}
-.cid-uoymVJCKqb .mbr-fallback-image {
-  display: block;
-  background-size: cover;
-  background-position: center center;
-  width: 100%;
-  height: 100%;
-  position: absolute;
-  top: 0;
-}
-.cid-uoymVJCKqb .row {
-  flex-direction: row-reverse;
 }
 .cid-uif2PsxaWA {
   padding-top: 4rem;
@@ -1614,15 +1594,15 @@ section.lazy-placeholder:after {
 .cid-u6WycKt9YG .mbr-section-subtitle {
   color: #232323;
 }
-.cid-uoynlbu3M1 {
+.cid-uoymVJCKqb {
   padding-top: 0rem;
-  padding-bottom: 0rem;
+  padding-bottom: 4rem;
   background-color: #ffffff;
 }
-.cid-uoynlbu3M1 .mbr-fallback-image.disabled {
+.cid-uoymVJCKqb .mbr-fallback-image.disabled {
   display: none;
 }
-.cid-uoynlbu3M1 .mbr-fallback-image {
+.cid-uoymVJCKqb .mbr-fallback-image {
   display: block;
   background-size: cover;
   background-position: center center;
@@ -1631,7 +1611,7 @@ section.lazy-placeholder:after {
   position: absolute;
   top: 0;
 }
-.cid-uoynlbu3M1 .row {
+.cid-uoymVJCKqb .row {
   flex-direction: row-reverse;
 }
 .cid-uifphS3ri4 {
@@ -1660,6 +1640,7 @@ section.lazy-placeholder:after {
 }
 .cid-uifphS3ri4 .mbr-section-title {
   color: #232323;
+  text-align: center;
 }
 .cid-uifphS3ri4 .mbr-section-subtitle {
   color: #232323;
